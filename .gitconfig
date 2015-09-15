@@ -1,0 +1,16 @@
+[user]
+	email = bernhardessl@gmail.com
+	name = Bernhard Essl
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = true
+	pager = true
